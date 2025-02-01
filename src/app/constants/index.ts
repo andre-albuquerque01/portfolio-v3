@@ -6,7 +6,7 @@ export const EXPERIENCES = [
     {
         year: "2024",
         role: "Desenvolvedor Full Stack - Freelancer",
-        company: "Fonte digitais",
+        company: "Fonte digital",
         description: `Desenvolvimento de uma aplicação web utilizando TypeScript, React.js e Laravel. Implementação de APIs RESTful e integração com bancos de dados PostgreSql. Colaborou com as partes interessadas para definir os requisitos e cronogramas do projeto.`,
         technologies: ["Typescript", "React.js", "Tailwind", "Next.js", "PostgreSql", "Laravel"],
     },
