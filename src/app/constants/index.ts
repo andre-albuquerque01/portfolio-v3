@@ -12,14 +12,14 @@ export const EXPERIENCES = [
     },
     {
         year: "2023",
-        role: "Desenvolvedor Frontend - Estágio",
+        role: "Desenvolvedor Frontend",
         company: "Defensoria Pública do DF",
         description: `Participei e desenvolvi interfaces de usuário para aplicações web usando Next.js e React. Trabalhei em estreita colaboração com desenvolvedores de back-end para integrar componentes de front-end com APIs em Python com Django. Implementou designs responsivos e desempenho de front-end otimizado.`,
         technologies: ["HTML", "CSS", "React.js", "Next.js", "Typescript"],
     },
     {
         year: "2022 - 2023",
-        role: "Auxiliar de Teste - Estágio",
+        role: "Auxiliar de Teste",
         company: "Caixa Econômica Federal",
         description: `Atuei no suporte a testes de sistemas internos, garantindo a qualidade e o funcionamento das aplicações. Realizei a análise de resultados, identificação de erros e documentação detalhada dos testes realizados. Colaborei com a equipe de desenvolvimento para propor soluções e melhorias nos sistemas testados.`,
         technologies: ["Word", "Git", "VS Code", "Excel"],
@@ -28,7 +28,7 @@ export const EXPERIENCES = [
 
 export const STUDY = [
     {
-        year: "2023 - 2025 - Cursando",
+        year: "2023 - 2025 - Concluído",
         role: "Especialização em Tecnologia da Informação com ênfase em Mainframe",
         company: "Senac - DF"
     },
