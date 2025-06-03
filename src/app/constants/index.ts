@@ -5,10 +5,10 @@ export const ABOUT_TEXT = `Sou um desenvolvedor full stack dedicado e versátil,
 export const EXPERIENCES = [
     {
         year: "2024",
-        role: "Desenvolvedor Full Stack - Freelancer",
+        role: "Desenvolvedor Full Stack",
         company: "Fonte digital",
         description: `Desenvolvimento de uma aplicação web utilizando TypeScript, React.js e Laravel. Implementação de APIs RESTful e integração com bancos de dados PostgreSql. Colaborou com as partes interessadas para definir os requisitos e cronogramas do projeto.`,
-        technologies: ["Typescript", "React.js", "Tailwind", "Next.js", "PostgreSql", "Laravel"],
+        technologies: ["Typescript", "React.js", "Tailwind", "Next.js", "PostgreSql", "Laravel", "AWS"],
     },
     {
         year: "2023",
@@ -19,7 +19,7 @@ export const EXPERIENCES = [
     },
     {
         year: "2022 - 2023",
-        role: "Auxiliar de Teste",
+        role: "Quality Assurance System",
         company: "Caixa Econômica Federal",
         description: `Atuei no suporte a testes de sistemas internos, garantindo a qualidade e o funcionamento das aplicações. Realizei a análise de resultados, identificação de erros e documentação detalhada dos testes realizados. Colaborei com a equipe de desenvolvimento para propor soluções e melhorias nos sistemas testados.`,
         technologies: ["Word", "Git", "VS Code", "Excel"],
